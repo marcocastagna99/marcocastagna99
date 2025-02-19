@@ -10,4 +10,5 @@ I'm a cybersecurity student and a developer passionate about automation, reverse
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcocastagna99&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcocastagna99&layout=compact&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcocastagna99&theme=dark)
-![snake gif](https://github.com/marcocastagna99/marcocastagna99/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/marcocastagna99/marcocastagna99/blob/main/dist/github-contribution-grid-snake.svg)
+

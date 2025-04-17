@@ -11,7 +11,7 @@ I'm a **Computer Science student** specializing in **Software Security & Enginee
   
 --- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcocastagna99&layout=compact&theme=dark)
-![Snake animation](https://github.com/marcocastagna99/marcocastagna99/blob/main/dist/github-contribution-grid-snake.svg)
+
 
 
 

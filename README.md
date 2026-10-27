@@ -1,6 +1,6 @@
 👋 Hi, I'm Marco!
 
-I'm a **Computer Science Master's student** passionate about **Cybersecurity, High Performance Computing (HPC), and Cloud Computing**. 🚀
+I'm a **Computer Science Master's student** passionate about **Cybersecurity, High Performance Computing (HPC), and Cloud Computing** 🚀
 
 * 🔭 Currently working on my **Master's thesis**, focusing on **parallelization with CUDA** and software modernization.
 * 💡 Deeply interested in **Reverse Engineering, IoT**, and **Distributed Systems (Peer-to-Peer)**.

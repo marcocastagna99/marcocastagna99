@@ -1,5 +1,3 @@
-**Opzione 1: Completa e focalizzata sul tuo percorso Magistrale**
-
 👋 Hi, I'm Marco!
 
 I'm a **Computer Science Master's student** passionate about **Cybersecurity, High Performance Computing (HPC), and Cloud Computing**. 🚀
